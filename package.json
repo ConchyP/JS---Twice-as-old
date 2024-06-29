@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "vitest": "^1.6.0"
+  },
+  "name": "js---twice-as-old",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "vitest",
+    "type": "module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchyP/JS---Twice-as-old.git"
+  },
+  "author": "Conchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchyP/JS---Twice-as-old/issues"
+  },
+  "homepage": "https://github.com/ConchyP/JS---Twice-as-old#readme"
+}
